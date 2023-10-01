@@ -1,4 +1,4 @@
-# 400CIS002-20232-poc-solid
+# Prueba de Concepto - Principios de Diseño SOLD
 Repositorio de código para la PoC de los Principios SOLID
 
 ## Introducción
