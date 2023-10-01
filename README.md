@@ -1,4 +1,4 @@
-# Prueba de Concepto - Principios de Diseño SOLD
+# Prueba de Concepto - Principios de Diseño SOLID
 Repositorio de código para la PoC de los Principios SOLID
 
 ## Introducción
